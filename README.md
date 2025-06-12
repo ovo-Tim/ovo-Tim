@@ -12,6 +12,7 @@ Looking for new friends who vibe with the same interests! Slide into my DMs on [
 
 ## Rencent working on
 Found something you are interested in? Let’s build it together. 🛠️
+- A small language model designed to detect if your Chinese sentences is fluent. Based on this, I also want to develop a Fcitx plugin that can capture the context and predict the most appropriate words.
 - Planing to build an open-source CAD based on [truck(a rust CAD kernel)](https://github.com/ricosjp/truck) and WASM.
 
 <!--
